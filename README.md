@@ -29,3 +29,9 @@ model
 ├── types.py         # Data classes and types
 ├── utils.py         # Helper functions and utilities
 └── run.py          # Entry point and configuration
+
+## Team Roles
+- Grid Cell - Nick
+- Agent Based Modelling - Lukas
+- Visualisations - Aminat & Dom
+- Methodology Research - Ali
